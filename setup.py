@@ -34,7 +34,7 @@ def read_text_file(fname):
 
 setup(
     name="sqs-log-handler",
-    version="1.1.0",
+    version="20181231.1030.0",
     author="Wei Liu",
     author_email="weil@zillowgroup.com",
     description="a python log handler that pushes logs into AWS sqs",
