@@ -25,6 +25,7 @@ sqs_log_handler.egg-info/
 .extends-cache
 GENERATED_VERSION
 versioner-*
+.eggs/
 
 # Zillow specialize #
 #####################
